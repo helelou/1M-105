@@ -1,4 +1,4 @@
-module github/helelou/1M-105
+module github.com/helelou/1M-105
 
 go 1.17
 
